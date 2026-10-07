@@ -4,7 +4,7 @@
 
 ## 预览
 
-<img src="./preview.png" style="max-height: 400px; width: auto;">
+<img src="./preview.png" style="height: 400px; width: auto;">
 
 ## 安装
 

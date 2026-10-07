@@ -4,7 +4,7 @@ Save multiple snapshots for each workflow tab in ComfyUI and switch between them
 
 ## Preview
 
-<img src="./preview.png" style="max-height: 400px; width: auto;">
+<img src="./preview.png" style="height: 400px; width: auto;">
 
 ## Installation
 
